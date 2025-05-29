@@ -219,11 +219,11 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.515;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="09XzMWXdTscOwKaTbByH-39" target="09XzMWXdTscOwKaTbByH-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-46" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;物相识别提供数据，对话分析依赖其输出&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="430" width="260" height="40" as="geometry" />
+        <mxCell id="09XzMWXdTscOwKaTbByH-46" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;对话分析依赖其输出&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="430" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-47" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;物相识别提供数据&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="430" width="260" height="40" as="geometry" />
+          <mxGeometry x="310" y="430" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
