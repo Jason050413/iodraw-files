@@ -231,7 +231,7 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-50" value="面向材料晶相翻译-交互式对话的XRD智能分析模型" style="text;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="197.5" width="445" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-52" value="面向材料晶相翻译-交互式对话的XRD智能分析模型" style="text;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-52" value="技术路线图" style="text;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="30" width="445" height="40" as="geometry" />
         </mxCell>
       </root>
