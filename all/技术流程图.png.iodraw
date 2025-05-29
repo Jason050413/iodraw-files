@@ -247,12 +247,6 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png;" vertex="1" parent="1">
           <mxGeometry x="1035" y="626.88" width="130" height="83.12" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="09XzMWXdTscOwKaTbByH-54">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="710" as="sourcePoint" />
-            <mxPoint x="1110" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
