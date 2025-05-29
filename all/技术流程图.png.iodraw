@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="09XzMWXdTscOwKaTbByH-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;dashed=1;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="70" width="560" height="340" as="geometry" />
         </mxCell>
@@ -224,9 +227,6 @@
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-47" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;物相识别提供数据&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="430" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
