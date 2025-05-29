@@ -11,10 +11,10 @@
           <mxGeometry x="360" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-6" value="数据部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="210" width="110" height="30" as="geometry" />
+          <mxGeometry x="250" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-7" value="分析部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="210" width="110" height="30" as="geometry" />
+          <mxGeometry x="480" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-8" value="NLP接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="690" width="110" height="30" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="400" y="690" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-1" value="实验数据导入" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="270" y="290" width="30" height="110" as="geometry" />
+          <mxGeometry x="250" y="220" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-2" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="30" height="110" as="geometry" />
