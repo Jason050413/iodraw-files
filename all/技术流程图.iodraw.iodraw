@@ -79,8 +79,8 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-3" value="解析自然语言提问如28°峰是什么物相支持交互" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="810" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-4" value="API调用本地大语言模型确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="395" y="810" width="50" height="120" as="geometry" />
+        <mxCell id="09XzMWXdTscOwKaTbByH-4" value="结合上下文conversation_history实现动态追问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="810" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
