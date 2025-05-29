@@ -296,10 +296,10 @@
           <mxGeometry x="1460" y="1050" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-87" value="极高的专业性" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="640" y="442.5" width="50" height="215" as="geometry" />
+          <mxGeometry x="640" y="437.5" width="50" height="215" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-88" value="较强的易用性" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="640" y="920" width="50" height="230" as="geometry" />
+          <mxGeometry x="680" y="890" width="50" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
