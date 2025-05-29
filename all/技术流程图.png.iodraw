@@ -295,8 +295,8 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-84" value="多元化结果表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1050" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-87" value="极高的专业性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="495" width="120" height="60" as="geometry" />
+        <mxCell id="09XzMWXdTscOwKaTbByH-87" value="极高的专业性" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="650" y="430" width="60" height="215" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-88" value="较强的易用性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="920" width="120" height="60" as="geometry" />
