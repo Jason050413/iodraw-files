@@ -15,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;arcSize=2;shadow=1;" parent="1" vertex="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9E7FC;arcSize=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="1850" width="590" height="430" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="09XzMWXdTscOwKaTbByH-76" target="09XzMWXdTscOwKaTbByH-79" edge="1">
@@ -348,7 +348,7 @@
         <mxCell id="QStTXyGzejupc26hxSxJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QStTXyGzejupc26hxSxJ-2" target="QStTXyGzejupc26hxSxJ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QStTXyGzejupc26hxSxJ-2" value="CNN模型进行分析并验证准确性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
+        <mxCell id="QStTXyGzejupc26hxSxJ-2" value="CNN模型进行分析并验证准确性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDACE;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="720.01" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QStTXyGzejupc26hxSxJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QStTXyGzejupc26hxSxJ-4" target="QStTXyGzejupc26hxSxJ-5" edge="1">
