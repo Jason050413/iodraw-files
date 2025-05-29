@@ -244,7 +244,7 @@
         </mxCell>
         <UserObject label="预处理数据经AnalysisWorker._prepare_temp_directory清洗为2θ-强度矩阵，由AnalysisWorker._perform_xrd_analysis调用spectrum_analysis.main传递至CNN模型Model.h5预测物相" link="预处理数据经AnalysisWorker._prepare_temp_directory清洗为2θ-强度矩阵，由AnalysisWorker._perform_xrd_analysis调用spectrum_analysis.main传递至CNN模型Model.h5预测物相" id="09XzMWXdTscOwKaTbByH-59">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-            <mxGeometry x="1080" y="560" width="60" height="30" as="geometry" />
+            <mxGeometry x="1080" y="560" width="1200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
