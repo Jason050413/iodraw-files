@@ -37,7 +37,7 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-56" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="1200" y="450" width="250" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-54" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" parent="1" vertex="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-54" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fillColor=#ADF7FF;" parent="1" vertex="1">
           <mxGeometry x="750" y="450" width="250" height="290" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MEqoe-W9dXFm5Piv2eZy-1" target="09XzMWXdTscOwKaTbByH-54" edge="1">
@@ -337,7 +337,7 @@
         <mxCell id="QStTXyGzejupc26hxSxJ-4" value="系统输出分析报告，关键数据表格展示，详细分析由本地模型接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="1188" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QStTXyGzejupc26hxSxJ-5" value="用户与软件对话进行提问，本地模型给出分析与总结" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;" vertex="1" parent="1">
+        <mxCell id="QStTXyGzejupc26hxSxJ-5" value="用户与软件对话进行提问，本地模型给出分析与总结" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="1340" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
