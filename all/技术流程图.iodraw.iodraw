@@ -32,19 +32,19 @@
           <mxGeometry x="440" y="220" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-4" value="输入处理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="290" y="600" width="110" height="30" as="geometry" />
+          <mxGeometry x="290" y="630" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-5" value="特征验证模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="570" y="220" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-6" value="结果整合" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="440" y="600" width="110" height="30" as="geometry" />
+          <mxGeometry x="440" y="630" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-7" value="模型对接" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="160" y="600" width="110" height="30" as="geometry" />
+          <mxGeometry x="160" y="630" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-8" value="格式化输出" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="570" y="600" width="110" height="30" as="geometry" />
+          <mxGeometry x="570" y="630" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-10" value="&#xa;&#xa;基于布拉格方程解析xy文件提取2θ强度&#xa;&#xa;" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="160" y="290" width="50" height="110" as="geometry" />
@@ -71,28 +71,28 @@
           <mxGeometry x="570" y="290" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-1" value="Transformer自注意力机制处理用户输入生成语义回复" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="650" width="70" height="120" as="geometry" />
+          <mxGeometry x="120" y="680" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-2" value="API调用本地大语言模型确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="210" y="650" width="50" height="120" as="geometry" />
+          <mxGeometry x="210" y="680" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-3" value="解析自然语言提问如28°峰是什么物相支持交互" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="650" width="50" height="120" as="geometry" />
+          <mxGeometry x="290" y="680" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-4" value="结合上下文实现动态追问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="650" width="50" height="120" as="geometry" />
+          <mxGeometry x="350" y="680" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-5" value="从结果中提取物相峰位晶面结构化数据" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="440" y="650" width="50" height="120" as="geometry" />
+          <mxGeometry x="440" y="680" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-6" value="合并CNN和pymatgen分析结果提升报告完整性" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="500" y="650" width="50" height="120" as="geometry" />
+          <mxGeometry x="500" y="680" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-7" value="正则表达式转化学式HTML如Li2MnO3生成专业报告" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="650" width="50" height="120" as="geometry" />
+          <mxGeometry x="570" y="680" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-8" value="输出表格化物相和峰位信息便于用户阅读" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="630" y="650" width="50" height="120" as="geometry" />
+          <mxGeometry x="630" y="680" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
