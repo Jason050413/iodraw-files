@@ -11,7 +11,7 @@
           <mxGeometry x="360" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-6" value="数据部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="250" width="110" height="30" as="geometry" />
+          <mxGeometry x="290" y="210" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-7" value="分析部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="250" width="110" height="30" as="geometry" />
