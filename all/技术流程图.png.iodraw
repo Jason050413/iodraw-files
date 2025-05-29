@@ -239,6 +239,9 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-60" value="预处理被传递至预先训练好的CNN模型进行物相分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="460" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/250px-Multi-Layer_Neural_Network-Vector-Blank.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="990" y="530" width="250" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
