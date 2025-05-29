@@ -73,7 +73,7 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-1" value="Transformer自注意力机制处理用户输入生成语义回复" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="810" width="70" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-2" value="API调用deepseek-r1:14b确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-2" value="API调用本地大语言模型确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="250" y="810" width="70" height="120" as="geometry" />
         </mxCell>
       </root>
