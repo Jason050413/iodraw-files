@@ -123,6 +123,9 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-6" target="09XzMWXdTscOwKaTbByH-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-6" target="09XzMWXdTscOwKaTbByH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-6" value="结果整合" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="440" y="630" width="110" height="30" as="geometry" />
         </mxCell>
@@ -134,6 +137,12 @@
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-7" value="模型对接" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="160" y="630" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-8" target="09XzMWXdTscOwKaTbByH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-8" target="09XzMWXdTscOwKaTbByH-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-8" value="格式化输出" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="570" y="630" width="110" height="30" as="geometry" />
