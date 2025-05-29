@@ -46,8 +46,8 @@
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-8" value="格式化输出" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="560" y="780" width="30" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-10" value="&#xa;&lt;p style=&quot;white-space: pre-wrap;&quot; dir=&quot;auto&quot;&gt;导入XRD图谱（2θ-强度数据&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="260" y="270" width="240" height="10" as="geometry" />
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-10" value="&#xa;&lt;p style=&quot;white-space: pre-wrap;&quot; dir=&quot;auto&quot;&gt;导入XRD图谱（2θ-强度数据&lt;/p&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="185" y="280" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
