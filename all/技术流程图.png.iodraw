@@ -178,15 +178,6 @@
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-13" value="去除噪声提升数据质量" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="885" y="580" width="50" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.756;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="09XzMWXdTscOwKaTbByH-54" target="09XzMWXdTscOwKaTbByH-70">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1030" y="660" as="targetPoint" />
-            <mxPoint x="1010" y="659" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1020" y="659" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-14" value="标注物相加速CNN训练" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="945" y="580" width="50" height="140" as="geometry" />
         </mxCell>
@@ -254,7 +245,7 @@
           <mxGeometry x="1030" y="606.88" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="1050.64" y="636.88" width="109.36" height="69.92" as="geometry" />
+          <mxGeometry x="1040" y="636.88" width="109.36" height="69.92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
