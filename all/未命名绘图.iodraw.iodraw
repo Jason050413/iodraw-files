@@ -49,6 +49,9 @@
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-10" value="&#xa;&#xa;基于布拉格方程解析xy文件提取2θ强度&#xa;&#xa;" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="50" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-11" value="支持多格式输入如txt和csv确保兼容不同XRD设备数据" style="rounded=0;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
