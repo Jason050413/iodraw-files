@@ -322,8 +322,8 @@
         <mxCell id="QStTXyGzejupc26hxSxJ-2" value="CNN模型进行分析并验证准确性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040.01" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QStTXyGzejupc26hxSxJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="QStTXyGzejupc26hxSxJ-4" value="系统输出分析报告，关键数据表格展示，详细分析由本地模型接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1178" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
