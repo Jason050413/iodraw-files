@@ -207,10 +207,10 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-5" value="提取物相峰位数据" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="440" y="730" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-6" value="合并CNN和pymatgen分析结果提升报告完整性" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-6" value="合并分析提升报告完整" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="500" y="730" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-7" value="正则表达式转化学式HTML如Li2MnO3生成专业报告" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-7" value="化学式转HTML生成报告" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="730" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-8" value="输出表格化物相和峰位信息便于用户阅读" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
