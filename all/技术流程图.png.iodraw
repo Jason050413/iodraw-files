@@ -178,6 +178,11 @@
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-13" value="去除噪声提升数据质量" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="885" y="580" width="50" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-14" value="标注物相加速CNN训练" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-rl;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="945" y="580" width="50" height="140" as="geometry" />
         </mxCell>
