@@ -195,10 +195,10 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-1" value="Transformer处理输入生成回复" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="140" y="730" width="70" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-2" value="API调用本地大语言模型确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-2" value="API调用本地模型实时响应" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="730" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-3" value="解析自然语言提问如28°峰是什么物相支持交互" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-3" value="解析提问支持交互" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="730" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-4" value="结合上下文实现动态追问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
