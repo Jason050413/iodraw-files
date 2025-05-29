@@ -243,7 +243,7 @@
           <mxGeometry x="877.5" y="310" width="445" height="40" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-60" value="预处理被传递至预先训练好的的CNN模型进行物相分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="1020" y="520" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
