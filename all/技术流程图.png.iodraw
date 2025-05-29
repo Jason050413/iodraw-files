@@ -51,8 +51,13 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-6" target="gRvYi0QkNTS8FuflqcHZ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-6" target="09XzMWXdTscOwKaTbByH-56">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="09XzMWXdTscOwKaTbByH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="09XzMWXdTscOwKaTbByH-54" target="09XzMWXdTscOwKaTbByH-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="490" />
+              <mxPoint x="1090" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-6" value="数据部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="450" width="120" height="30" as="geometry" />
