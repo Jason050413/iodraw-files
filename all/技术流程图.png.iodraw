@@ -183,13 +183,13 @@
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-15" value="卷积层提取峰位预测物相" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="440" y="290" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-16" value="池化层降维减少计算量提升模型效率" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-16" value="池化降维提升模型效率" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="500" y="290" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-17" value="余弦相似度匹配PDF卡片库验证物相一致性" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-17" value="余弦相似度匹配PDF库" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="630" y="290" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-18" value="置信度评估CNN预测概率确保90%准确率" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-18" value="置信度评估确保90%准确" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="570" y="290" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-1" value="Transformer自注意力机制处理用户输入生成语义回复" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
