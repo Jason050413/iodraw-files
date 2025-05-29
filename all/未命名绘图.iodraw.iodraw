@@ -1,25 +1,25 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="fTyHXRxstlXEE6N_tntZ">
-    <mxGraphModel dx="574" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MEqoe-W9dXFm5Piv2eZy-1" value="物相识别模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-1" value="物相识别模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MEqoe-W9dXFm5Piv2eZy-4" value="交互式对话模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-4" value="交互式对话模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MEqoe-W9dXFm5Piv2eZy-6" value="数据部分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-6" value="数据部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MEqoe-W9dXFm5Piv2eZy-7" value="分析部分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-7" value="分析部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="160" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MEqoe-W9dXFm5Piv2eZy-8" value="NLP接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-8" value="NLP接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="120" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MEqoe-W9dXFm5Piv2eZy-9" value="报告生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-9" value="报告生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="160" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
