@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="09XzMWXdTscOwKaTbByH-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="600" width="120" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-66" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="1108" y="880" width="262" height="330" as="geometry" />
         </mxCell>
@@ -242,10 +245,7 @@
           <mxGeometry x="1030" y="606.88" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="636.88" width="130" height="83.12" as="geometry" />
-        </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="1035" y="626.88" width="130" height="83.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
