@@ -74,7 +74,13 @@
           <mxGeometry x="160" y="810" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-2" value="API调用本地大语言模型确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="250" y="810" width="70" height="120" as="geometry" />
+          <mxGeometry x="250" y="810" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-3" value="API调用本地大语言模型确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="820" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-4" value="API调用本地大语言模型确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="830" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
