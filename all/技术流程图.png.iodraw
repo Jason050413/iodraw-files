@@ -225,6 +225,9 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-47" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;物相识别提供数据&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="430" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
