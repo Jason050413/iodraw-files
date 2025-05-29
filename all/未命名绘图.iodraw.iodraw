@@ -16,6 +16,12 @@
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-7" value="分析部分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-8" value="分析部分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-9" value="分析部分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
