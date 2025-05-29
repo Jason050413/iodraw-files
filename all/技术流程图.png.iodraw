@@ -295,8 +295,11 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-84" value="多元化结果表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1050" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-87" value="极高的专业性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
