@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="fTyHXRxstlXEE6N_tntZ">
-    <mxGraphModel dx="308" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1324" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-18" value="置信度评估CNN预测概率确保90%准确率" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="570" y="250" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-1" value="&#xa;&#xa;基于布拉格方程解析xy文件提取2θ强度&#xa;&#xa;" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
