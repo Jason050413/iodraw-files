@@ -8,7 +8,11 @@
           <mxGeometry x="790" y="790" width="590" height="430" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="09XzMWXdTscOwKaTbByH-76" target="09XzMWXdTscOwKaTbByH-79">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1600" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="350" width="720" height="390" as="geometry" />
