@@ -105,6 +105,9 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-4" target="09XzMWXdTscOwKaTbByH-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-4" target="09XzMWXdTscOwKaTbByH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-4" value="输入处理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="290" y="630" width="110" height="30" as="geometry" />
         </mxCell>
@@ -116,6 +119,9 @@
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-5" value="特征验证模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="570" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-6" target="09XzMWXdTscOwKaTbByH-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-6" value="结果整合" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="440" y="630" width="110" height="30" as="geometry" />
