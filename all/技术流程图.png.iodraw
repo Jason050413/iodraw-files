@@ -247,10 +247,10 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png;" vertex="1" parent="1">
           <mxGeometry x="1040" y="620" width="120" height="76.72" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.699;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="09XzMWXdTscOwKaTbByH-54">
+        <mxCell id="09XzMWXdTscOwKaTbByH-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.699;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="09XzMWXdTscOwKaTbByH-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1070" y="660" as="sourcePoint" />
-            <mxPoint x="1030" y="650" as="targetPoint" />
+            <mxPoint x="999.9999999999998" y="630" as="sourcePoint" />
+            <mxPoint x="1030.25" y="637.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
