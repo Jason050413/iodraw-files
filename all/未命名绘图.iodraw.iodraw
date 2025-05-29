@@ -50,7 +50,7 @@
           <mxGeometry x="160" y="240" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-11" value="去除噪声标注物相支持CNN学习" style="rounded=0;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="220" y="240" width="50" height="190" as="geometry" />
+          <mxGeometry x="220" y="240" width="50" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
