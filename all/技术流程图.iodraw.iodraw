@@ -22,6 +22,9 @@
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-9" value="报告生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="560" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-1" target="gRvYi0QkNTS8FuflqcHZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-1" value="实验数据导入" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=0;direction=south;" parent="1" vertex="1">
           <mxGeometry x="160" y="220" width="110" height="30" as="geometry" />
         </mxCell>
@@ -71,10 +74,10 @@
           <mxGeometry x="570" y="290" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-1" value="Transformer自注意力机制处理用户输入生成语义回复" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="130" y="700" width="70" height="120" as="geometry" />
+          <mxGeometry x="140" y="700" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-2" value="API调用本地大语言模型确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="210" y="700" width="50" height="120" as="geometry" />
+          <mxGeometry x="220" y="700" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-3" value="解析自然语言提问如28°峰是什么物相支持交互" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="700" width="50" height="120" as="geometry" />
