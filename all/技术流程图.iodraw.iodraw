@@ -1,0 +1,76 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="fTyHXRxstlXEE6N_tntZ">
+    <mxGraphModel dx="441" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-1" value="物相识别模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-4" value="交互式对话模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-6" value="数据部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-7" value="分析部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-8" value="NLP接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="720" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEqoe-W9dXFm5Piv2eZy-9" value="报告生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="720" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-1" value="实验数据导入" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=0;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="160" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-2" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="290" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-3" value="CNN模型模块&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%85%A5%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Brotation%3D0%3BverticalAlign%3Dmiddle%3BflipV%3D1%3BflipH%3D1%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2250%22%20y%3D%22160%22%20width%3D%2230%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-4" value="输入处理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="330" y="780" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-5" value="特征验证模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="570" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-6" value="结果整合" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="480" y="780" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-7" value="模型对接" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="250" y="780" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-8" value="格式化输出" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="560" y="780" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-10" value="&#xa;&#xa;基于布拉格方程解析xy文件提取2θ强度&#xa;&#xa;" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="160" y="240" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-11" value="支持多格式输入如txt和csv确保兼容不同XRD设备数据" style="rounded=0;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="220" y="240" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-13" value="去除基线漂移和噪声以提升CNN输入数据质量" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="290" y="240" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-14" value="标注物相如Li2MnO3支持监督学习和模型训练" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="350" y="240" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-15" value="卷积层提取XRD图谱峰位和强度特征预测物相如CaCO3" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-16" value="池化层降维减少计算量提升模型效率" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="500" y="240" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-17" value="余弦相似度匹配PDF卡片库验证物相一致性" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="630" y="250" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-18" value="置信度评估CNN预测概率确保90%准确率" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="570" y="250" width="50" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
