@@ -169,10 +169,10 @@
           <mxGeometry x="570" y="660" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-10" value="解析xy文件提取2θ强度" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="160" y="290" width="50" height="110" as="geometry" />
+          <mxGeometry x="160" y="290" width="50" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-11" value="支持txt csv等多格式输入" style="rounded=0;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="220" y="290" width="50" height="110" as="geometry" />
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-11" value="支持txt csv等多格式输入" style="rounded=0;whiteSpace=wrap;fontSize=12;textDirection=vertical-lr;" parent="1" vertex="1">
+          <mxGeometry x="220" y="290" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-13" value="去除噪声提升数据质量" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="290" y="290" width="50" height="110" as="geometry" />
