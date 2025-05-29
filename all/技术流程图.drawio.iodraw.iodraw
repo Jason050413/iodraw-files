@@ -313,16 +313,11 @@
             <mxPoint x="890" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QStTXyGzejupc26hxSxJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="09XzMWXdTscOwKaTbByH-91">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770.0000000000002" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-91" value="导入XRD图谱文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QStTXyGzejupc26hxSxJ-1" value="系统自动预处理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QStTXyGzejupc26hxSxJ-2" value="CNN模型进行分析并验证准确性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040.01" y="270" width="120" height="60" as="geometry" />
