@@ -207,7 +207,7 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-8" value="表格化输出便于阅读" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1310" y="1010" width="50" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="09XzMWXdTscOwKaTbByH-54" target="gRvYi0QkNTS8FuflqcHZ-2">
+        <mxCell id="09XzMWXdTscOwKaTbByH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-6" target="gRvYi0QkNTS8FuflqcHZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.515;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -228,14 +228,8 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-52" value="技术路线图" style="text;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="310" width="445" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-6" target="09XzMWXdTscOwKaTbByH-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="855" y="470" as="sourcePoint" />
-            <mxPoint x="927" y="499" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-54" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="730" y="430" width="240" height="210" as="geometry" />
+        <mxCell id="09XzMWXdTscOwKaTbByH-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="744" y="480" width="240" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
