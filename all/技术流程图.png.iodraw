@@ -32,15 +32,6 @@
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-1" value="物相识别模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="900" y="840" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1100" y="860" />
-              <mxPoint x="960" y="860" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-4" target="MEqoe-W9dXFm5Piv2eZy-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -245,6 +236,9 @@
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/250px-Multi-Layer_Neural_Network-Vector-Blank.svg.png;" vertex="1" parent="1">
           <mxGeometry x="1016.66" y="520" width="166.67" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.537;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-4" target="09XzMWXdTscOwKaTbByH-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
