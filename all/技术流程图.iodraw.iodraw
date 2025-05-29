@@ -23,6 +23,9 @@
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-1" value="物相识别模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-4" target="MEqoe-W9dXFm5Piv2eZy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-4" value="交互式对话模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
         </mxCell>
@@ -31,6 +34,12 @@
         </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-6" value="数据部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-7" target="gRvYi0QkNTS8FuflqcHZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-7" target="gRvYi0QkNTS8FuflqcHZ-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-7" value="分析部分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="160" width="120" height="30" as="geometry" />
