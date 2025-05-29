@@ -238,6 +238,9 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.537;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-4" target="09XzMWXdTscOwKaTbByH-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-69" value="机器学习平台使用TensorFlow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="630" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
