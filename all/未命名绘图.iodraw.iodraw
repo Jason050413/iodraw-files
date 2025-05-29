@@ -22,8 +22,8 @@
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-9" value="报告生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="720" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-1" value="实验数据导入" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;verticalAlign=middle;flipV=1;flipH=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="250" y="220" width="30" height="110" as="geometry" />
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-1" value="实验数据导入" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-2" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="30" height="110" as="geometry" />
