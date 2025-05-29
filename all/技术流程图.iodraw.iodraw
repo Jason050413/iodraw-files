@@ -60,8 +60,17 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-8" target="gRvYi0QkNTS8FuflqcHZ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-8" target="gRvYi0QkNTS8FuflqcHZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-8" value="NLP接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-9" target="gRvYi0QkNTS8FuflqcHZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-9" target="gRvYi0QkNTS8FuflqcHZ-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-9" value="报告生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="560" width="120" height="30" as="geometry" />
