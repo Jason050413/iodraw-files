@@ -242,11 +242,9 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-52" value="技术路线图" style="text;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="310" width="445" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="预处理数据经AnalysisWorker._prepare_temp_directory清洗为2θ-强度矩阵，由AnalysisWorker._perform_xrd_analysis调用spectrum_analysis.main传递至CNN模型Model.h5预测物相" link="预处理数据经AnalysisWorker._prepare_temp_directory清洗为2θ-强度矩阵，由AnalysisWorker._perform_xrd_analysis调用spectrum_analysis.main传递至CNN模型Model.h5预测物相" id="09XzMWXdTscOwKaTbByH-59">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-            <mxGeometry x="1080" y="560" width="1200" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="09XzMWXdTscOwKaTbByH-60" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
