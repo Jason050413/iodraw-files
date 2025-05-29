@@ -245,7 +245,7 @@
           <mxGeometry x="1030" y="606.88" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="636.88" width="109.36" height="69.92" as="geometry" />
+          <mxGeometry x="1040" y="630" width="120" height="76.72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
