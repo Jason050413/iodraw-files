@@ -46,10 +46,10 @@
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-8" value="格式化输出" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="560" y="780" width="30" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-10" value="&#xa;&#xa;基于布拉格方程解析xy文件提取2θ强度&#xa;&#xa;" style="rounded=0;verticalAlign=middle;align=center;textDirection=vertical-lr;fontSize=10;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-10" value="&#xa;&#xa;基于布拉格方程解析xy文件提取2θ强度&#xa;&#xa;" style="rounded=0;verticalAlign=middle;align=center;textDirection=vertical-lr;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="50" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-11" value="去除噪声标注物相支持CNN学习" style="rounded=0;whiteSpace=wrap;textDirection=vertical-lr;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-11" value="去除噪声标注物相支持CNN学习" style="rounded=0;whiteSpace=wrap;textDirection=vertical-lr;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="50" height="180" as="geometry" />
         </mxCell>
       </root>
