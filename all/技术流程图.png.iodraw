@@ -228,8 +228,8 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-47" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;物相识别提供数据&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="430" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-50" value="面向材料晶相翻译-交互式对话的XRD智能分析模型" style="text;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="245" y="30" width="350" height="40" as="geometry" />
+        <mxCell id="09XzMWXdTscOwKaTbByH-50" value="面向材料晶相翻译-交互式对话的XRD智能分析模型" style="text;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="245" y="30" width="445" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
