@@ -7,7 +7,8 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="09XzMWXdTscOwKaTbByH-77" target="09XzMWXdTscOwKaTbByH-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1590" y="1010" />
+              <mxPoint x="1590" y="1060" />
+              <mxPoint x="1590" y="1025" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -286,7 +287,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-79" value="用户既可获取分析部分的直接输出结果（表格形式），也可获取本地大模型详更加详细的分析结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="990" width="200" height="70" as="geometry" />
+          <mxGeometry x="1900" y="900" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
