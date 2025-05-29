@@ -201,10 +201,10 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-3" value="解析提问支持实时交互" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="290" y="730" width="50" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-4" value="上下文实现动态追问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-4" value="上下文实现动态追问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="730" width="50" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-5" value="提取物相峰位数据" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-5" value="提取物相峰位数据" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="440" y="730" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-6" value="合并分析提升报告完整" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
