@@ -61,13 +61,13 @@
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-15" value="卷积层提取XRD图谱峰位和强度特征预测物相如CaCO3" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="440" y="240" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-16" value="标注物相如Li2MnO3支持监督学习和模型训练" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-16" value="池化层降维减少计算量提升模型效率" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="500" y="240" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-17" value="标注物相如Li2MnO3支持监督学习和模型训练" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="630" y="250" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-18" value="标注物相如Li2MnO3支持监督学习和模型训练" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-18" value="置信度评估CNN预测概率确保90%准确率" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="570" y="250" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
