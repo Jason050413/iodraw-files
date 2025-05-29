@@ -4,7 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="09XzMWXdTscOwKaTbByH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-1" target="MEqoe-W9dXFm5Piv2eZy-6">
+        <mxCell id="09XzMWXdTscOwKaTbByH-54" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="730" y="430" width="250" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-1" target="09XzMWXdTscOwKaTbByH-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1100" y="420" />
@@ -227,9 +230,6 @@
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-52" value="技术路线图" style="text;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="310" width="445" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-54" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="730" y="430" width="250" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
