@@ -205,16 +205,16 @@
           <mxGeometry x="350" y="730" width="50" height="170" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-5" value="提取物相峰位数据" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="440" y="730" width="50" height="130" as="geometry" />
+          <mxGeometry x="440" y="730" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-6" value="合并分析提升报告完整" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="500" y="730" width="50" height="130" as="geometry" />
+          <mxGeometry x="500" y="730" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-7" value="化学式转HTML生成报告" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="570" y="730" width="50" height="120" as="geometry" />
+          <mxGeometry x="570" y="730" width="50" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-8" value="表格化输出便于阅读" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="630" y="730" width="50" height="120" as="geometry" />
+        <mxCell id="09XzMWXdTscOwKaTbByH-8" value="表格化输出便于阅读" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="630" y="730" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-6" target="gRvYi0QkNTS8FuflqcHZ-2">
           <mxGeometry relative="1" as="geometry" />
