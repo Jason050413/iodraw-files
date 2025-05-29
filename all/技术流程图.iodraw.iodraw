@@ -71,16 +71,16 @@
           <mxGeometry x="570" y="250" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-1" value="Transformer自注意力机制处理用户输入生成语义回复" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="810" width="70" height="120" as="geometry" />
+          <mxGeometry x="120" y="810" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-2" value="API调用本地大语言模型确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="250" y="810" width="50" height="120" as="geometry" />
+          <mxGeometry x="210" y="810" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-3" value="解析自然语言提问如28°峰是什么物相支持交互" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="330" y="820" width="50" height="120" as="geometry" />
+          <mxGeometry x="290" y="810" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-4" value="API调用本地大语言模型确保实时响应用户提问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="440" y="810" width="50" height="120" as="geometry" />
+          <mxGeometry x="395" y="810" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
