@@ -198,10 +198,10 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-2" value="API调用本地模型实时响应" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="220" y="730" width="50" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-3" value="解析提问支持交互" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-3" value="解析提问支持实时交互" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="290" y="730" width="50" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-4" value="上下文实现动态追问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-4" value="上下文实现动态追问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="350" y="730" width="50" height="170" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-5" value="提取物相峰位数据" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
