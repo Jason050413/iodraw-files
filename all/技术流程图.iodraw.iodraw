@@ -51,7 +51,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;flowAnimation=1;" parent="1" source="MEqoe-W9dXFm5Piv2eZy-1" target="09XzMWXdTscOwKaTbByH-56" edge="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;flowAnimation=0;" parent="1" source="MEqoe-W9dXFm5Piv2eZy-1" target="09XzMWXdTscOwKaTbByH-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="780" y="1480" />
@@ -336,28 +336,28 @@
         <mxCell id="QStTXyGzejupc26hxSxJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="09XzMWXdTscOwKaTbByH-91" target="QStTXyGzejupc26hxSxJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-91" value="导入XRD图谱文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="09XzMWXdTscOwKaTbByH-91" value="导入XRD图谱文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QStTXyGzejupc26hxSxJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QStTXyGzejupc26hxSxJ-1" target="QStTXyGzejupc26hxSxJ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QStTXyGzejupc26hxSxJ-1" value="系统自动预处理数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="QStTXyGzejupc26hxSxJ-1" value="系统自动预处理数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="575" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QStTXyGzejupc26hxSxJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QStTXyGzejupc26hxSxJ-2" target="QStTXyGzejupc26hxSxJ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QStTXyGzejupc26hxSxJ-2" value="CNN模型进行分析并验证准确性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="QStTXyGzejupc26hxSxJ-2" value="CNN模型进行分析并验证准确性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="720.01" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QStTXyGzejupc26hxSxJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QStTXyGzejupc26hxSxJ-4" target="QStTXyGzejupc26hxSxJ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QStTXyGzejupc26hxSxJ-4" value="系统输出分析报告，关键数据表格展示，详细分析由本地模型接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="QStTXyGzejupc26hxSxJ-4" value="系统输出分析报告，关键数据表格展示，详细分析由本地模型接入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="868" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QStTXyGzejupc26hxSxJ-5" value="用户与软件对话进行提问，本地模型给出分析与总结" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="QStTXyGzejupc26hxSxJ-5" value="用户与软件对话进行提问，本地模型给出分析与总结" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png;shadow=1;" parent="1" vertex="1">
