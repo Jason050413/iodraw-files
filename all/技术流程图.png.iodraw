@@ -233,7 +233,7 @@
           <mxGeometry x="1020" y="460" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/250px-Multi-Layer_Neural_Network-Vector-Blank.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="600" width="166.67" height="80" as="geometry" />
+          <mxGeometry x="1016.67" y="510" width="166.67" height="80" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.537;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-4" target="09XzMWXdTscOwKaTbByH-62">
           <mxGeometry relative="1" as="geometry" />
