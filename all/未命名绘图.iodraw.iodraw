@@ -49,6 +49,9 @@
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-10" value="解析`.xy`等格式文件，提取2θ角和强度，基于布拉格方程（nλ=2dsinθ）" style="rounded=0;verticalAlign=middle;align=center;textDirection=vertical-lr;fontSize=10;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="40" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="80" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
