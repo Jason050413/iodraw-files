@@ -239,7 +239,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-69" value="机器学习平台使用TensorFlow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="630" width="140" height="30" as="geometry" />
+          <mxGeometry x="1030" y="600" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
