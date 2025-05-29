@@ -174,10 +174,10 @@
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-11" value="支持txt csv等多格式输入" style="rounded=0;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="220" y="290" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-13" value="去除基线漂移和噪声以提升CNN输入数据质量" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-13" value="去除噪声提升数据质量" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="290" y="290" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gRvYi0QkNTS8FuflqcHZ-14" value="标注物相如Li2MnO3支持监督学习和模型训练" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="gRvYi0QkNTS8FuflqcHZ-14" value="标注物相支持CNN训练" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="350" y="290" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-15" value="卷积层提取XRD图谱峰位和强度特征预测物相如CaCO3" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" parent="1" vertex="1">
