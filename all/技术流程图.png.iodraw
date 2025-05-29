@@ -239,7 +239,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/3/34/Transformer%2C_full_architecture.png;" vertex="1" parent="1">
-          <mxGeometry x="980" y="940" width="1141" height="1200" as="geometry" />
+          <mxGeometry x="620" y="920.0000000000001" width="215.5" height="226.64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
