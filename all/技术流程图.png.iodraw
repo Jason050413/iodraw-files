@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="09XzMWXdTscOwKaTbByH-62" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="810" y="870" width="280" height="330" as="geometry" />
+          <mxGeometry x="805" y="880" width="280" height="330" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-56" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="1200" y="440" width="250" height="290" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MEqoe-W9dXFm5Piv2eZy-8" value="NLP接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="880" width="120" height="30" as="geometry" />
+          <mxGeometry x="895" y="890" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-9" target="gRvYi0QkNTS8FuflqcHZ-6">
           <mxGeometry relative="1" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-4" value="输入处理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="970" y="950" width="110" height="30" as="geometry" />
+          <mxGeometry x="965" y="960" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-5" target="gRvYi0QkNTS8FuflqcHZ-18">
           <mxGeometry relative="1" as="geometry" />
@@ -157,7 +157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gRvYi0QkNTS8FuflqcHZ-7" value="模型对接" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;verticalAlign=middle;flipV=1;flipH=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="820" y="950" width="130" height="30" as="geometry" />
+          <mxGeometry x="815" y="960" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRvYi0QkNTS8FuflqcHZ-8" target="09XzMWXdTscOwKaTbByH-7">
           <mxGeometry relative="1" as="geometry" />
@@ -193,16 +193,16 @@
           <mxGeometry x="1335" y="580" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-1" value="Transformer处理输入生成回复" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1020" width="70" height="170" as="geometry" />
+          <mxGeometry x="815" y="1030" width="70" height="170" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-2" value="API调用本地模型实时响应" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1020" width="50" height="170" as="geometry" />
+          <mxGeometry x="895" y="1030" width="50" height="170" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-3" value="解析提问支持实时交互" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1020" width="50" height="170" as="geometry" />
+          <mxGeometry x="965" y="1030" width="50" height="170" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-4" value="上下文实现动态追问" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;textDirection=vertical-lr;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1020" width="50" height="170" as="geometry" />
+          <mxGeometry x="1025" y="1030" width="50" height="170" as="geometry" />
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-5" value="提取物相峰位数据" style="rounded=0;verticalAlign=middle;align=center;fontSize=12;flipV=0;direction=west;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1020" width="50" height="140" as="geometry" />
@@ -239,6 +239,9 @@
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.537;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MEqoe-W9dXFm5Piv2eZy-4" target="09XzMWXdTscOwKaTbByH-62">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-66" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="900" width="280" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
