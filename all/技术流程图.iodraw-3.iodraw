@@ -279,9 +279,6 @@
         <mxCell id="09XzMWXdTscOwKaTbByH-60" value="预处理被传递至预先训练好的CNN模型进行物相分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1520" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="09XzMWXdTscOwKaTbByH-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/250px-Multi-Layer_Neural_Network-Vector-Blank.svg.png;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="696.67" y="1570" width="166.67" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.537;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="1" source="MEqoe-W9dXFm5Piv2eZy-4" target="09XzMWXdTscOwKaTbByH-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -362,6 +359,9 @@
         </mxCell>
         <mxCell id="09XzMWXdTscOwKaTbByH-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1680" width="120" height="76.72" as="geometry" />
+        </mxCell>
+        <mxCell id="09XzMWXdTscOwKaTbByH-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Multi-Layer_Neural_Network-Vector-Blank.svg/250px-Multi-Layer_Neural_Network-Vector-Blank.svg.png;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="696.67" y="1570" width="166.67" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
